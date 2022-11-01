@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CMjH9dT4QOxj0p4eq7wX63zK4Q8ZhE4Ms6Mk004myDxoQ40evu78OldXqr7mAkGfLvhT3D2fvg2BLkDMoaFmEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evri\\Desktop\\C# Basics for Beginners Learn C# Fundamentals by Coding\\inMemoryCachingApp\\inMemoryCaching\\inMemoryCaching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\evri\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\evri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\evri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\evri\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\evri\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\evri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

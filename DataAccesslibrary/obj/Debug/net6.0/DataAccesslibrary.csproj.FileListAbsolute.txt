@@ -1,0 +1,12 @@
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\bin\Debug\net6.0\DataAccesslibrary.deps.json
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\bin\Debug\net6.0\DataAccesslibrary.dll
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\bin\Debug\net6.0\ref\DataAccesslibrary.dll
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\bin\Debug\net6.0\DataAccesslibrary.pdb
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.csproj.AssemblyReference.cache
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.AssemblyInfoInputs.cache
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.AssemblyInfo.cs
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.csproj.CoreCompileInputs.cache
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.dll
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\ref\DataAccesslibrary.dll
+C:\Users\evri\Desktop\C# Basics for Beginners Learn C# Fundamentals by Coding\inMemoryCachingApp\DataAccesslibrary\obj\Debug\net6.0\DataAccesslibrary.pdb
